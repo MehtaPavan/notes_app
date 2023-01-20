@@ -1,19 +1,12 @@
 # Notes App
 
-<img width="1248" alt="Снимок экрана 2022-10-18 в 19 09 56" src="https://user-images.githubusercontent.com/15833765/196485158-608fdf13-bf65-436a-a2b8-8c735600ef1f.png">
+<img width="1248" src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/abae37aa-df56-47e8-91fd-8b85ad85cba0/icon/935e4a06-3986-4186-8a7e-3bf429ac079e">
 
 A simple notes app. Uses Drift to store your notes. Assign colors for your notes. Search your notes easily.
 
 ## Features
- - Supports Android/iOS (IOS not available yet)
  - Search notes
  - List view for notes
  - Color labels for notes
  - Smooth UI 
-
-## To-do
- - [ ] GridView/ListView switcher 
- - [ ] AppLock
- - [ ] Archive notes
- - [ ] Cloud backup
  
