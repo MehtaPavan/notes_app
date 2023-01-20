@@ -1,6 +1,6 @@
 # Notes App
 
-<img width="1248" src="https://services.garmin.com/appsLibraryBusinessServices_v0/rest/apps/abae37aa-df56-47e8-91fd-8b85ad85cba0/icon/935e4a06-3986-4186-8a7e-3bf429ac079e">
+<img width="1248" src="https://www.creativefabrica.com/wp-content/uploads/2019/07/Yellow-notes-line-icon-by-Home-Sweet.jpg">
 
 A simple notes app. Uses Drift to store your notes. Assign colors for your notes. Search your notes easily.
 
